@@ -7,6 +7,11 @@ http://start1.servebeer.com:8080/38t4KI590s/o9HRVbFTtn/883|user-agent=PlusMediaP
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" tvg-group="DEPORTES", Dr house1111
+#EXTVLCOPT:http-user-agent="PlusMediaPlayer/0.0.9"
+http://start1.servebeer.com:8080/38t4KI590s/o9HRVbFTtn/851
+
 #EXTINF:-1, aLaLiga Tv Bar 1080
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280?p=web|user-agent=firefox
 
